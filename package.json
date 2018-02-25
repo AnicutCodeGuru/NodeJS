@@ -1,0 +1,25 @@
+{
+  "name": "sampleprj",
+  "version": "1.0.0",
+  "description": "Training",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnicutCodeGuru/NodeJS.git"
+  },
+  "keywords": [
+    "Training"
+  ],
+  "author": "Jagadeesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnicutCodeGuru/NodeJS/issues"
+  },
+  "homepage": "https://github.com/AnicutCodeGuru/NodeJS#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
